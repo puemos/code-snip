@@ -1,5 +1,10 @@
 import * as React from 'react';
+import { SnippetList } from '../../containers/SnippetList';
 
-const Application = () => <div>Hello World from Electron!</div>;
+const Application = () => (
+    <div>
+        <SnippetList />
+    </div>
+);
 
 export default Application;

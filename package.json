@@ -118,7 +118,7 @@
     "tslint-config-airbnb": "^5.4.2",
     "tslint-config-prettier": "^1.6.0",
     "tslint-react": "^3.2.0",
-    "typescript": "^2.6.2",
+    "typescript": "rc",
     "uglifyjs-webpack-plugin": "^1.1.4",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7",
@@ -129,6 +129,7 @@
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
+    "reselect": "^3.0.1",
     "styled-components": "^3.2.3"
   }
 }
